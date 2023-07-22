@@ -15,3 +15,5 @@ Technologies Used:
 * Fragment Adapters
 * Google Map SDK
 * Android Shared Preferences
+
+[video-demo](https://github.com/Rudra-23/Discover-Shows/assets/54005905/9c3188a2-36e1-4276-a21f-e7f62d7a5504)
