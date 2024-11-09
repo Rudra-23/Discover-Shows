@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/facebook"
+        android:title="Button"
+        app:showAsAction="always"
+        android:icon="@drawable/facebook"
+        />
+
+    <item
+        android:id="@+id/twitter"
+        android:title="Button"
+        app:showAsAction="always"
+        android:icon="@drawable/twitter"
+        />
+
+    <item
+        android:id="@+id/favButton"
+        android:title="Button"
+        app:showAsAction="always"
+        android:icon="@drawable/heart_outline"
+        />
+</menu>
